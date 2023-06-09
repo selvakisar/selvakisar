@@ -1,0 +1,56 @@
+#apd{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row col-lg-4;
+    justify-content: space-around;
+    
+}
+#cpd{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(245, 233, 95);
+    opacity: 0.8;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 15px;
+    margin: 20px;
+}
+#flag{
+    height: 200px;
+    width:300px
+}
+
+#country{
+    text-align: center;
+    color: rgb(243, 211, 109);
+    display: inline;
+    background-color: rgb(0, 0, 0)
+
+}
+
+#reg{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    display: inline;
+  
+
+}
+
+#temp{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    display: inline;
+  
+
+}
+
+
+
+#button{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 92, 157);
+    color: cadetblue;
+    border: 2px solid rgb(255, 253, 253);
+    border-radius: 2px;
+}
