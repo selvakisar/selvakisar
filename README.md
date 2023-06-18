@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @selvakisar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @selvaMani.K
+- 👀 I’m interested in ...Learnig new Things
+- 🌱 I’m currently learning ..."MERN"
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..w910iselva@gmail.com
+- phone +919659530953
 
 <!---
 selvakisar/selvakisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
