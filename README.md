@@ -1,4 +1,4 @@
-![Banner]([https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966](https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif))
+![Banner](https://cdn.dribbble.com/users/720555/screenshots/4029449/media/3f5492e77bc2d10a60c997d4b6e567a5.gif))
 <h1 align="center">Hi 👋, I'm Selvamani .K</h1>
 <h3 align="center">A passionate full stack developer MERN from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
