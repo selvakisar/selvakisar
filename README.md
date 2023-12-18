@@ -1,4 +1,4 @@
-![Banner](https://cdn.dribbble.com/users/720555/screenshots/4029449/media/3f5492e77bc2d10a60c997d4b6e567a5.gif))
+![Banner](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Selvamani .K</h1>
 <h3 align="center">A passionate full stack developer MERN from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
